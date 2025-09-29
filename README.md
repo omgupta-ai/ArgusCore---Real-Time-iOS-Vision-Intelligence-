@@ -1,6 +1,9 @@
 ArgusCore 👁️
+
 Real-Time Object Recognition Engine for iOS
+
 ArgusCore is a lightweight, powerful iOS application that uses on-device machine learning to identify objects in real-time through the camera. By leveraging Apple's native frameworks, all processing happens locally, ensuring instantaneous results, complete offline functionality, and absolute user privacy.
+
 🚀 Live Demo
 (To make this section impactful, replace the placeholder image with a screen recording GIF of your app running on your iPhone. Use a tool like Ezgif.com to convert your video.)
 ✨ Core Technologies
