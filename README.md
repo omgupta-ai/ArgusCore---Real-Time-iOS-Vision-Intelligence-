@@ -82,8 +82,8 @@ To run this project yourself:
 **Om Manoj Gupta**
 
 - **Email**: gupta.om@northeastern.edu
-- **LinkedIn**: [https://www.linkedin.com/in/om-manoj-gupta-428110202/](https://www.linkedin.com/in/om-manoj-gupta-428110202/)
-- **GitHub**: *(Link to your GitHub profile here)*
+- **LinkedIn**: [https://www.linkedin.com/in/om-manoj-gupta-428110202/](https://www.linkedin.com/in/om-gupta-428110202/)
+- **GitHub**: https://github.com/omgupta-ai
 
 ## 📄 License
 
