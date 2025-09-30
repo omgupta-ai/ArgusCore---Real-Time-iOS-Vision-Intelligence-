@@ -6,7 +6,7 @@ ArgusCore is a lightweight, powerful iOS application that uses on-device machine
 
 ## 🚀 Live Demo
 
-![ArgusCore Demo]([https://github.com/omgupta-ai/ArgusCore---Real-Time-iOS-Vision-Intelligence-/blob/main/GIF_1.gif])
+![ArgusCore Demo](https://github.com/omgupta-ai/ArgusCore---Real-Time-iOS-Vision-Intelligence-/blob/main/GIF_1.gif)
 
 *(To make this section impactful, replace the placeholder image with a screen recording GIF of your app running on your iPhone. Use a tool like [Ezgif.com](https://ezgif.com) to convert your video.)*
 
